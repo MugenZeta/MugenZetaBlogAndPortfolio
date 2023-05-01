@@ -1,1 +1,2 @@
-# MugenZetaBlog.github.io
+# Mugen Zeta Blog and Portfolio Site Respritory
+
